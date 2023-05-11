@@ -1,0 +1,24 @@
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.AssemblyReference.cache
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.Form1.resources
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.Properties.Resources.resources
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.GenerateResource.cache
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.CoreCompileInputs.cache
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\bin\Debug\xmltext.xml
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.exe.config
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.exe
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.pdb
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.exe
+C:\Users\lapag\source\repos\Практичне завдання.Використання декількох форм у Windows-додатках\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.pdb
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\bin\Debug\xmltext.xml
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.exe.config
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.exe
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\bin\Debug\Завдання_XML.pdb
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.AssemblyReference.cache
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.SuggestedBindingRedirects.cache
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.Form1.resources
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.Properties.Resources.resources
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.GenerateResource.cache
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.csproj.CoreCompileInputs.cache
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.exe
+C:\UMSF\Завдання_XML\Завдання_XML\Завдання_XML\obj\Debug\Завдання_XML.pdb

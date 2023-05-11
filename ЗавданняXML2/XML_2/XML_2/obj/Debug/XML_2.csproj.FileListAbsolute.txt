@@ -1,0 +1,11 @@
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\bin\Debug\XML_2.exe.config
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\bin\Debug\XML_2.exe
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\bin\Debug\XML_2.pdb
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.csproj.AssemblyReference.cache
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.csproj.SuggestedBindingRedirects.cache
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.Form1.resources
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.Properties.Resources.resources
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.csproj.GenerateResource.cache
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.csproj.CoreCompileInputs.cache
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.exe
+C:\UMSF\ЗавданняXML2\XML_2\XML_2\obj\Debug\XML_2.pdb
